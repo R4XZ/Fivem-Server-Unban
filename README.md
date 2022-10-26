@@ -7,6 +7,6 @@ You also need a new rockstar account
 
 
 ![Capture6](https://user-images.githubusercontent.com/116701630/198008426-7554b62d-4a48-4b52-b1d5-f9df9dc87098.PNG)
-![Capture9](https://user-images.githubusercontent.com/116701630/198008820-62554607-3c06-4966-80cc-f38444b6fa97.PNG)
+![Capture9](https://user-images.githubusercontent.com/116701630/198020155-f1c12f22-a836-4e53-8615-9a40d7cf5dda.PNG)
 ![image](https://user-images.githubusercontent.com/116701630/198018181-5a976f72-2158-4310-9c98-a8f32a7c8273.png)
 
