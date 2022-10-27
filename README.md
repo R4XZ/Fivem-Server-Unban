@@ -6,6 +6,6 @@ Also you can keep your windows firewall and security on no need to turn it off f
 You also need a new rockstar account
 
 ![Capture2](https://user-images.githubusercontent.com/116701630/198207647-f7ec62e7-e694-4ea1-bacb-5c58f6061948.PNG)
-![Capture9](https://user-images.githubusercontent.com/116701630/198020155-f1c12f22-a836-4e53-8615-9a40d7cf5dda.PNG)
+![Capture9](https://user-images.githubusercontent.com/116701630/198208733-cf4b3441-54ad-4dd3-a273-daf39ddb71bc.PNG)
 ![image](https://user-images.githubusercontent.com/116701630/198018181-5a976f72-2158-4310-9c98-a8f32a7c8273.png)
 
