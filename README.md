@@ -6,8 +6,7 @@ Also you can keep your windows firewall and security on no need to turn it off f
 You also need a new rockstar account.
 Any problems feel free to put in a issue and i will fix asap or to ask any questions.
 
-![Capture](https://user-images.githubusercontent.com/116701630/198237379-f31e0d41-f376-4b18-b4c6-f0a2e50256b5.PNG)
+![Capture](https://user-images.githubusercontent.com/116701630/198276804-3b4fdfe5-78ea-4a5a-b5e9-dfc7409a4c9d.PNG)
 ![Capture9](https://user-images.githubusercontent.com/116701630/198208733-cf4b3441-54ad-4dd3-a273-daf39ddb71bc.PNG)
 ![image](https://user-images.githubusercontent.com/116701630/198018181-5a976f72-2158-4310-9c98-a8f32a7c8273.png)
-
 ![IMG_2747](https://user-images.githubusercontent.com/116701630/198274073-41a74509-0919-4e30-a907-12bcd23a3d32.png)
