@@ -10,7 +10,5 @@ if you want to block xbox live you will need to run the programme as admin.
 ![Capture9](https://user-images.githubusercontent.com/116701630/198208733-cf4b3441-54ad-4dd3-a273-daf39ddb71bc.PNG)
 ![image](https://user-images.githubusercontent
 ![banned](https://user-images.githubusercontent.com/116701630/200037598-31d1cacb-8bfd-4a18-9ef3-18b48be5f608.PNG)
-.com/116701630/198018181-5a976f72-2158-4310-9c98-a8f32a7c8273.png)
 ![unban](https://user-images.githubusercontent.com/116701630/200037619-91b09f36-0252-47fb-96ac-0e1774027376.PNG)
-
 ![IMG_2747](https://user-images.githubusercontent.com/116701630/198274073-41a74509-0919-4e30-a907-12bcd23a3d32.png)
