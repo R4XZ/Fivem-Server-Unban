@@ -8,7 +8,6 @@ Any problems feel free to put in a issue and i will fix asap or to ask any quest
 if you want to block xbox live you will need to run the programme as admin.
 ![Capture](https://user-images.githubusercontent.com/116701630/198276804-3b4fdfe5-78ea-4a5a-b5e9-dfc7409a4c9d.PNG)
 ![Capture9](https://user-images.githubusercontent.com/116701630/198208733-cf4b3441-54ad-4dd3-a273-daf39ddb71bc.PNG)
-![image](https://user-images.githubusercontent
 ![banned](https://user-images.githubusercontent.com/116701630/200037598-31d1cacb-8bfd-4a18-9ef3-18b48be5f608.PNG)
 ![unban](https://user-images.githubusercontent.com/116701630/200037619-91b09f36-0252-47fb-96ac-0e1774027376.PNG)
 ![IMG_2747](https://user-images.githubusercontent.com/116701630/198274073-41a74509-0919-4e30-a907-12bcd23a3d32.png)
