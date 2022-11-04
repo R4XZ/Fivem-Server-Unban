@@ -6,7 +6,7 @@ Expect updates in the near future but at the moment it dont need to be fancy plu
 
 Also you can keep your windows firewall and security on no need to turn it off for this.
 
-You also need a new rockstar account and steam also connect to a vpn.
+You also need a new rockstar account and steam also connect to a vpn you will also need to deauthorize discord from fivem and log out.
 
 Any problems feel free to put in a issue and i will fix asap or to ask any questions.
 
