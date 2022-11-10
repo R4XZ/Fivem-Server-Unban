@@ -12,6 +12,8 @@ Any problems or doubts feel free to join my discord to ask questions https://dis
 
 if you want to block xbox live you will need to run the programme as admin.
 
+This does not change your hardware id.
+
 ![Capture](https://user-images.githubusercontent.com/116701630/198276804-3b4fdfe5-78ea-4a5a-b5e9-dfc7409a4c9d.PNG)
 ![Capture9](https://user-images.githubusercontent.com/116701630/198208733-cf4b3441-54ad-4dd3-a273-daf39ddb71bc.PNG)
 ![banned](https://user-images.githubusercontent.com/116701630/200037598-31d1cacb-8bfd-4a18-9ef3-18b48be5f608.PNG)
