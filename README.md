@@ -8,7 +8,7 @@ Also you can keep your windows firewall and security on no need to turn it off f
 
 You also need a new rockstar account and steam also connect to a vpn you will also need to deauthorize discord from fivem and log out.
 
-Any problems or doubts feel free to join my discord to ask questions https://discord.gg/EUBxsjdNFn.
+Any problems or doubts feel free to join my discord to ask questions https://discord.com/invite/EUBxsjdNFn.
 
 if you want to block xbox live you will need to run the programme as admin.
 
