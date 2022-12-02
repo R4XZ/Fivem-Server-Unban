@@ -4,11 +4,11 @@ Simple Spoofer Made with Python :) This wipes all your cache, blocks xbox live a
 
 Expect updates in the near future but at the moment it dont need to be fancy plus its free lol.
 
-Also you can keep your windows firewall and security on no need to turn it off for this.
+you can keep your windows firewall and security on no need to turn it off for this.
 
-You also need a new rockstar account and steam also connect to a vpn you will also need to deauthorize discord from fivem and log out.
+You also need a new rockstar account etc.
 
-Any problems or doubts feel free to join my discord to ask questions https://discord.com/invite/EUBxsjdNFn.
+Any problems or doubts or confused on how to unban yourself feel free to join my discord to ask questions https://discord.com/invite/EUBxsjdNFn.
 
 if you want to block xbox live you will need to run the programme as admin.
 
