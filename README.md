@@ -2,11 +2,12 @@
 
 Simple Spoofer Made with Python :) This wipes all your cache, blocks xbox live and removes everything you need to unban yourself.
 
-Expect updates in the near future but at the moment it dont need to be fancy plus its free lol.
+Updated 2023
+New Gui
+no more button sticking down when executing code
 
-you can keep your windows firewall and security on no need to turn it off for this.
+The unban method is in my discord which was sent by mercys to me.
 
-You also need a new rockstar account etc.
 
 Any problems/doubts or confused on how to unban yourself feel free to join my discord i have a channel dedicated to teaching you on how to unban or to ask questions https://discord.gg/EUBxsjdNFn
 
