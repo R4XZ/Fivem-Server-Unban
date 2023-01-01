@@ -1,6 +1,6 @@
 # Fivem-Spoof-Unban  #Sl33pyClean                                            ![image](https://user-images.githubusercontent.com/116701630/198017571-2b5e803e-a037-4547-8796-50d45ec2a835.png)
 
-Simple Spoofer Made with Python tkinter :) This wipes all your cache, blocks xbox live and removes everything you need to unban yourself.
+Simple Spoofer Made with Python :) This wipes all your cache, blocks xbox live and removes everything you need to unban yourself.
 
 *Updated 01.01.2023
 
