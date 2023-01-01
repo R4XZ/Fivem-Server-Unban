@@ -3,7 +3,9 @@
 Simple Spoofer Made with Python tkinter :) This wipes all your cache, blocks xbox live and removes everything you need to unban yourself.
 
 *Updated 01.01.2023
+
 *New Gui
+
 *No more button sticking down when executing code
 
 The unban method is in my discord which was sent by mercys to me.
