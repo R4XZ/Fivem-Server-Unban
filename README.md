@@ -15,7 +15,7 @@ Any problems/doubts or confused on how to unban yourself feel free to join my di
 
 if you want to block xbox live you will need to run the programme as admin.
 
-This does not change your hardware id.
+Please Note This Will NOT Change Your HWID.
 
 ![update](https://user-images.githubusercontent.com/116701630/210186231-4073b041-be90-4baa-8df5-7cdc4774ad95.PNG)
 ![ban](https://user-images.githubusercontent.com/116701630/210186229-9273e289-9b3f-4239-b816-4809c744fc77.png)
