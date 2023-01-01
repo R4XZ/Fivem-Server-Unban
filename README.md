@@ -4,6 +4,7 @@ Simple Spoofer Made with Python tkinter :) This wipes all your cache, blocks xbo
 
 Updated 01.01.2023
 New Gui
+
 no more button sticking down when executing code
 
 The unban method is in my discord which was sent by mercys to me.
