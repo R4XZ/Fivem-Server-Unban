@@ -8,7 +8,7 @@ you can keep your windows firewall and security on no need to turn it off for th
 
 You also need a new rockstar account etc.
 
-Any problems/doubts or confused on how to unban yourself feel free to join my discord i have a channel dedicated to teaching you on how to unban or to ask questions https://discord.com/invite/EUBxsjdNFn.
+Any problems/doubts or confused on how to unban yourself feel free to join my discord i have a channel dedicated to teaching you on how to unban or to ask questions https://discord.gg/EUBxsjdNFn
 
 if you want to block xbox live you will need to run the programme as admin.
 
