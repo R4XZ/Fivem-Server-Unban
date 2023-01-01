@@ -16,7 +16,9 @@ Any problems/doubts or confused on how to unban yourself feel free to join my di
 if you want to block xbox live you will need to run the programme as admin.
 
 This does not change your hardware id.
-![ban](https://user-images.githubusercontent.com/116701630/210185937-287a3ede-6728-4c19-92c1-15339e9ca3e1.png)
+
+![update](https://user-images.githubusercontent.com/116701630/210186231-4073b041-be90-4baa-8df5-7cdc4774ad95.PNG)
+![ban](https://user-images.githubusercontent.com/116701630/210186229-9273e289-9b3f-4239-b816-4809c744fc77.png)
 ![unbanned](https://user-images.githubusercontent.com/116701630/210185940-6bb3f7e9-c32c-4c17-a5f9-54d53f14c87a.PNG)
 
 ![IMG_2747](https://user-images.githubusercontent.com/116701630/198274073-41a74509-0919-4e30-a907-12bcd23a3d32.png)
