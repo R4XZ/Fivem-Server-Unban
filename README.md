@@ -2,7 +2,7 @@
 
 Simple Spoofer Made with Python :) This wipes all your cache, blocks xbox live and removes everything you need to unban yourself.
 
-*Updated 01.01.2023
+*Updated 03.01.2023
 
 *New Gui
 
