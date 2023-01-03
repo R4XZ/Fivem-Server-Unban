@@ -8,10 +8,12 @@ Simple Spoofer Made with Python :) This wipes all your cache, blocks xbox live a
 
 *No more button sticking down when executing code
 
-The unban method is in my discord which was sent by mercys to me.
+The unban method is in my discord which was sent to me by mercys.
 
 
 Any problems/doubts or confused on how to unban yourself feel free to join my discord i have a channel dedicated to teaching you on how to unban or to ask questions https://discord.gg/EUBxsjdNFn
+
+i already have members in the discord who i have helped unban from servers. Feel free to join the discord and look around 
 
 if you want to block xbox live you will need to run the programme as admin.
 
