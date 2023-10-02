@@ -1,25 +1,16 @@
 # Fivem-Spoof-Unban  #TheSensei                                            ![image](https://user-images.githubusercontent.com/116701630/198017571-2b5e803e-a037-4547-8796-50d45ec2a835.png)
 
-##discontinued##
+# discontinued
 
-I do not cover help with this anymore so please use this with your own knowledge 
+I Do NOT provide Support for this Tool anymore....
 
-
-
-
-Simple Spoofer Made with Python :)
-
-
-what is tkinter? tkinter is a Standard GUI Library for Python.
-
-This spoofer/cleaner wipes all your cache, blocks xbox live and removes everything you need to unban yourself from a tx admin server ban only. (Please Note This Will NOT Change Your HWID. Or bypass token and hwid bans).
-
-*Updated 03.01.2023
-
-*New Gui
-
-*No more button sticking down when executing code
-
+installation
+```
+pip install -r requirements.txt
+```
+```
+python Cleaner.py
+```
 
 
 ![update](https://user-images.githubusercontent.com/116701630/210186231-4073b041-be90-4baa-8df5-7cdc4774ad95.PNG)
