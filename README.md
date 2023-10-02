@@ -1,8 +1,11 @@
 # Fivem-Spoof-Unban  #TheSensei                                            ![image](https://user-images.githubusercontent.com/116701630/198017571-2b5e803e-a037-4547-8796-50d45ec2a835.png)
 
 # discontinued
-
 I Do NOT provide Support for this Tool anymore....
+
+This Tool will not change your HWID or bypass token bans.
+
+Txadmin server bans ONLY
 
 installation
 ```
