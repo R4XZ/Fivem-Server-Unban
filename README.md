@@ -6,7 +6,7 @@ I Do NOT provide Support for this Tool anymore....
 This Tool will not change your HWID or bypass token bans.
 
 Txadmin server bans ONLY
-
+(New identifiers are needed for this tool to work properly)
 installation
 ```
 pip install -r requirements.txt
